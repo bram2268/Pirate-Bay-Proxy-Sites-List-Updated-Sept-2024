@@ -30,6 +30,7 @@ Accessing ThePirateBay with a VPN is crucial for protecting your own IP address,
 
 [**NordVPN**](https://sites.psu.edu/idtphs/files/2022/08/GlobalProtect_1240-1.png) is an Online VPN service that encrypts your internet traffic and hides your IP with physical location. Upgrade your privacy and security now. The VPN also offers a [FREE VPN TRIAL (30 days)](https://tpbay.site/redirect.php), enabling users to experience the dependability, speed, and high-performance of NordVPN.
 
-[![](https://media.cybernews.com/images/featured-big/2022/11/vpn-for-pirate-bay-featured-img.jpg)(https://tpbay.site/redirect.php)
+
+[![](https://media.cybernews.com/images/featured-big/2022/11/vpn-for-pirate-bay-featured-img.jpg)](https://tpbay.site/redirect.php)
 
 
