@@ -16,7 +16,7 @@ Established in 2003 by a Swedish anti-copyright group, Pirate Bay is a renowned 
 
 ## Pirate Bay Proxy List (2024)
 
-The [Pirate Bay proxy](https://www.okeyproxy.com/proxy/pirate-bay-proxy-sites-list-unblock-its-torrent/) sites, also known as pirate mirror sites, are essentially copies of the original site. Due to The Pirate Bay frequently changing its URL or facing restrictions in numerous countries, some torrent enthusiasts have established these proxy sites. If access to the official website is unavailable, users can utilize the various proxy sites provided. Pirate Bay proxy sites completely replicate the content of the original Pirate Bay website.
+The [Pirate Bay proxy](https://tpbay.site) sites, also known as pirate mirror sites, are essentially copies of the original site. Due to The Pirate Bay frequently changing its URL or facing restrictions in numerous countries, some torrent enthusiasts have established these proxy sites. If access to the official website is unavailable, users can utilize the various proxy sites provided. Pirate Bay proxy sites completely replicate the content of the original Pirate Bay website.
 
 - [ThePiratebay.cloud](https://thepiratebay.cloud)
 - [tpbay.site](https://Tpbay.site)
@@ -30,6 +30,6 @@ Accessing ThePirateBay with a VPN is crucial for protecting your own IP address,
 
 [**NordVPN**](https://sites.psu.edu/idtphs/files/2022/08/GlobalProtect_1240-1.png) is an Online VPN service that encrypts your internet traffic and hides your IP with physical location. Upgrade your privacy and security now. The VPN also offers a [FREE VPN TRIAL (30 days)](https://tpbay.site/redirect.php), enabling users to experience the dependability, speed, and high-performance of NordVPN.
 
-[![](https://media.cybernews.com/images/featured-big/2022/11/vpn-for-pirate-bay-featured-img.jpg)](https://tpbay.site/redirect.php)
+[![image](https://media.cybernews.com/images/featured-big/2022/11/vpn-for-pirate-bay-featured-img.jpg)](https://tpbay.site/redirect.php)
 
 
